@@ -1,0 +1,4 @@
+{
+    "name": "release-solution-to-prod",
+    "description": "CI Generate a build artifact (managed solution) and import into a production environment workflow template."
+}
