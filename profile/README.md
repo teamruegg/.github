@@ -1,5 +1,7 @@
-## Hi there, I'm Urs Rüegg and teamruegg is my organization repository👋
+## Welcome, 👋
 
-**connect with me:**
+I'm Urs Rüegg and teamruegg is my organization repository
+
+
 
 
