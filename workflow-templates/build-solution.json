@@ -1,0 +1,4 @@
+{
+    "name": "build-solution",
+    "description": "CI build Power Platform solution from repro workflow template."
+}
