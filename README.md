@@ -1,2 +1,2 @@
 # .github
-Collection of GitHub Actions for Microsoft Power Platform development
+Organization profile and templates
